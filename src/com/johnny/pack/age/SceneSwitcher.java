@@ -10,6 +10,11 @@ import java.util.Optional;
 
 public class SceneSwitcher extends Application {
 
+    /**
+     * Main method calls launch(args) from Application class
+     * to create an object of SceneSwitcher and run the program
+     * @param args
+     */
     public static void main(String[] args){
         launch(args);
     }
